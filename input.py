@@ -1,0 +1,6 @@
+name=input("enter your name")
+print ("u entered : ", name)
+rollnum=input("enter your roll number ")
+print ("u entered :" , rollnum)
+section  =input("enter section")
+print("u entered : ", section)
